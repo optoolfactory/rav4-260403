@@ -8,6 +8,8 @@ from openpilot.selfdrive.ui.mici.layouts.settings.developer import DeveloperLayo
 from openpilot.selfdrive.ui.mici.layouts.settings.firehose import FirehoseLayout
 from openpilot.system.ui.lib.application import gui_app, FontWeight
 
+if gui_app.sunnypilot_ui():
+  from openpilot.selfdrive.ui.sunnypilot.mici.layouts.settings_layouts.device import DeviceLayoutMiciSP as DeviceLayoutMici
 
 class SettingsBigButton(BigButton):
   def _get_label_font_size(self):
