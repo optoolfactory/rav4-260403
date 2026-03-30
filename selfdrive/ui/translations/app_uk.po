@@ -18,22 +18,22 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Poedit 3.8\n"
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:152
+#: openpilot/selfdrive/ui/layouts/settings/device.py:155
 #, python-format
 msgid " Steering torque response calibration is complete."
 msgstr " Калібрування реакції крутного моменту керма завершено."
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:150
+#: openpilot/selfdrive/ui/layouts/settings/device.py:153
 #, python-format
 msgid " Steering torque response calibration is {}% complete."
 msgstr "Калібрування реакції крутного моменту керма завершено на {}%."
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:125
+#: openpilot/selfdrive/ui/layouts/settings/device.py:128
 #, python-format
 msgid " Your device is pointed {:.1f}° {} and {:.1f}° {}."
 msgstr " Ваш пристрій нахилено на {:.1f}° {} та {:.1f}° {}."
 
-#: openpilot/selfdrive/ui/layouts/sidebar.py:43
+#: openpilot/selfdrive/ui/layouts/sidebar.py:45
 msgid "--"
 msgstr "--"
 
@@ -47,33 +47,33 @@ msgstr "1 рік зберігання поїздок"
 msgid "24/7 LTE connectivity"
 msgstr "Підключення LTE 24/7"
 
-#: openpilot/selfdrive/ui/layouts/sidebar.py:46
+#: openpilot/selfdrive/ui/layouts/sidebar.py:48
 msgid "2G"
 msgstr "2G"
 
-#: openpilot/selfdrive/ui/layouts/sidebar.py:47
+#: openpilot/selfdrive/ui/layouts/sidebar.py:49
 msgid "3G"
 msgstr "3G"
 
-#: openpilot/selfdrive/ui/layouts/sidebar.py:49
+#: openpilot/selfdrive/ui/layouts/sidebar.py:51
 msgid "5G"
 msgstr "5G"
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:140
+#: openpilot/selfdrive/ui/layouts/settings/device.py:143
 #, python-format
 msgid "<br><br>Steering lag calibration is complete."
 msgstr "<br><br>Калібрування затримки кермування завершено."
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:138
+#: openpilot/selfdrive/ui/layouts/settings/device.py:141
 #, python-format
 msgid "<br><br>Steering lag calibration is {}% complete."
 msgstr "<br><br>Калібрування затримки кермування завершено на {}%."
 
-#: openpilot/selfdrive/ui/widgets/ssh_key.py:30
+#: openpilot/selfdrive/ui/widgets/ssh_key.py:74
 msgid "ADD"
 msgstr "ДОДАТИ"
 
-#: system/ui/widgets/network.py:136
+#: system/ui/widgets/network.py:142
 #, python-format
 msgid "APN Setting"
 msgstr "Налаштування APN"
@@ -83,49 +83,49 @@ msgstr "Налаштування APN"
 msgid "Acknowledge Excessive Actuation"
 msgstr "Визнайте надмірне спрацьовування"
 
-#: system/ui/widgets/network.py:92
-#: system/ui/widgets/network.py:74
+#: system/ui/widgets/network.py:98
+#: system/ui/widgets/network.py:80
 #, python-format
 msgid "Advanced"
 msgstr "Розширені"
 
-#: openpilot/selfdrive/ui/layouts/settings/toggles.py:98
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:102
 #, python-format
 msgid "Aggressive"
 msgstr "Агресивн."
 
-#: openpilot/selfdrive/ui/layouts/onboarding.py:120
+#: openpilot/selfdrive/ui/layouts/onboarding.py:123
 #, python-format
 msgid "Agree"
 msgstr "Погодитися"
 
-#: openpilot/selfdrive/ui/layouts/settings/toggles.py:70
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:74
 #, python-format
 msgid "Always-On Driver Monitoring"
 msgstr "Постійний моніторинг водія"
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:183
+#: openpilot/selfdrive/ui/layouts/settings/device.py:186
 #, python-format
 msgid "Are you sure you want to power off?"
 msgstr "Ви впевнені, що хочете вимкнути?"
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:171
+#: openpilot/selfdrive/ui/layouts/settings/device.py:174
 #, python-format
 msgid "Are you sure you want to reboot?"
 msgstr "Ви впевнені, що хочете перезавантажити?"
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:111
+#: openpilot/selfdrive/ui/layouts/settings/device.py:114
 #, python-format
 msgid "Are you sure you want to reset calibration?"
 msgstr "Ви впевнені, що хочете скинути калібрування?"
 
-#: openpilot/selfdrive/ui/layouts/settings/software.py:173
+#: openpilot/selfdrive/ui/layouts/settings/software.py:175
 #, python-format
 msgid "Are you sure you want to uninstall?"
 msgstr "Ви впевнені, що хочете видалити?"
 
-#: system/ui/widgets/network.py:96
-#: openpilot/selfdrive/ui/layouts/onboarding.py:151
+#: system/ui/widgets/network.py:102
+#: openpilot/selfdrive/ui/layouts/onboarding.py:154
 #, python-format
 msgid "Back"
 msgstr "Назад"
@@ -140,15 +140,15 @@ msgstr "Станьте членом comma prime на connect.comma.ai"
 msgid "Bookmark connect.comma.ai to your home screen to use it like an app"
 msgstr "Додайте connect.comma.ai до головного екрану, щоб використовувати його як додаток."
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:66
+#: openpilot/selfdrive/ui/layouts/settings/device.py:69
 #, python-format
 msgid "CHANGE"
 msgstr "ЗМІНИТИ"
 
-#: openpilot/selfdrive/ui/layouts/settings/software.py:157
-#: openpilot/selfdrive/ui/layouts/settings/software.py:57
-#: openpilot/selfdrive/ui/layouts/settings/software.py:117
-#: openpilot/selfdrive/ui/layouts/settings/software.py:128
+#: openpilot/selfdrive/ui/layouts/settings/software.py:159
+#: openpilot/selfdrive/ui/layouts/settings/software.py:60
+#: openpilot/selfdrive/ui/layouts/settings/software.py:119
+#: openpilot/selfdrive/ui/layouts/settings/software.py:130
 #, python-format
 msgid "CHECK"
 msgstr "ПЕРЕВІРИТИ"
@@ -158,42 +158,47 @@ msgstr "ПЕРЕВІРИТИ"
 msgid "CHILL MODE ON"
 msgstr "СПОКІЙНИЙ РЕЖИМ"
 
-#: system/ui/widgets/network.py:152
-#: openpilot/selfdrive/ui/layouts/sidebar.py:73
-#: openpilot/selfdrive/ui/layouts/sidebar.py:134
-#: openpilot/selfdrive/ui/layouts/sidebar.py:136
+#: system/ui/widgets/network.py:158
+#: openpilot/selfdrive/ui/layouts/sidebar.py:76
 #: openpilot/selfdrive/ui/layouts/sidebar.py:138
+#: openpilot/selfdrive/ui/layouts/sidebar.py:140
+#: openpilot/selfdrive/ui/layouts/sidebar.py:142
 #, python-format
 msgid "CONNECT"
 msgstr "CONNECT"
 
-#: system/ui/widgets/network.py:376
+#: system/ui/widgets/network.py:382
 #, python-format
 msgid "CONNECTING..."
 msgstr "ПІДКЛЮЧА..."
 
-#: system/ui/widgets/network.py:326
-#: system/ui/widgets/confirm_dialog.py:24
 #: system/ui/widgets/option_dialog.py:36
+#: system/ui/widgets/network.py:332
+#: system/ui/widgets/confirm_dialog.py:24
 #: system/ui/widgets/keyboard.py:83
 #, python-format
 msgid "Cancel"
 msgstr "Скасувати"
 
-#: system/ui/widgets/network.py:131
+#: system/ui/widgets/network.py:137
 #, python-format
 msgid "Cellular Metered"
 msgstr "Лімітне стільникове з'єднання"
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:66
+#: openpilot/selfdrive/ui/layouts/settings/device.py:69
 #, python-format
 msgid "Change Language"
 msgstr "Змінити мову"
 
-#: openpilot/selfdrive/ui/layouts/settings/toggles.py:125
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:129
 #, python-format
-msgid "Changing this setting will restart openpilot if the car is powered on."
-msgstr "Зміна цього параметра призведе до перезапуску openpilot, якщо автомобіль увімкнено."
+msgid "Changing this setting will restart sunnypilot if the car is powered on."
+msgstr ""
+
+#: system/ui/sunnypilot/widgets/sunnylink_pairing_dialog.py:102
+#, python-format
+msgid "Choose your sponsorship tier and confirm your support"
+msgstr ""
 
 #: openpilot/selfdrive/ui/widgets/pairing_dialog.py:118
 #, python-format
@@ -205,25 +210,25 @@ msgstr "Натисніть «додати новий пристрій» і ві�
 msgid "Close"
 msgstr "Закрити"
 
-#: openpilot/selfdrive/ui/layouts/settings/software.py:56
+#: openpilot/selfdrive/ui/layouts/settings/software.py:59
 #, python-format
 msgid "Current Version"
 msgstr "Поточна версія"
 
-#: openpilot/selfdrive/ui/layouts/settings/software.py:120
+#: openpilot/selfdrive/ui/layouts/settings/software.py:122
 #, python-format
 msgid "DOWNLOAD"
 msgstr "ВАНТАЖ"
 
-#: openpilot/selfdrive/ui/layouts/onboarding.py:119
+#: openpilot/selfdrive/ui/layouts/onboarding.py:122
 #, python-format
 msgid "Decline"
 msgstr "Відхилити"
 
-#: openpilot/selfdrive/ui/layouts/onboarding.py:152
+#: openpilot/selfdrive/ui/layouts/onboarding.py:155
 #, python-format
-msgid "Decline, uninstall openpilot"
-msgstr "Відхилити, видалити openpilot"
+msgid "Decline, uninstall sunnypilot"
+msgstr ""
 
 #: openpilot/selfdrive/ui/layouts/settings/settings.py:64
 msgid "Developer"
@@ -233,61 +238,61 @@ msgstr "Розробник"
 msgid "Device"
 msgstr "Пристрій"
 
-#: openpilot/selfdrive/ui/layouts/settings/toggles.py:58
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:62
 #, python-format
 msgid "Disengage on Accelerator Pedal"
 msgstr "Вимкнення при натисканні на педаль газу"
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:176
+#: openpilot/selfdrive/ui/layouts/settings/device.py:179
 #, python-format
 msgid "Disengage to Power Off"
 msgstr "Вимкніть openpilot, щоб вимкнути пристрій"
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:164
+#: openpilot/selfdrive/ui/layouts/settings/device.py:167
 #, python-format
 msgid "Disengage to Reboot"
 msgstr "Вимкніть openpilot, щоб перезавантажити"
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:95
+#: openpilot/selfdrive/ui/layouts/settings/device.py:98
 #, python-format
 msgid "Disengage to Reset Calibration"
 msgstr "Деактивуйте для скидання калібрування"
 
-#: openpilot/selfdrive/ui/layouts/settings/toggles.py:32
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:36
 msgid "Display speed in km/h instead of mph."
 msgstr "Відображати швидкість у км/год замість миль/год."
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:57
+#: openpilot/selfdrive/ui/layouts/settings/device.py:60
 #, python-format
 msgid "Dongle ID"
 msgstr "ID ключа"
 
-#: openpilot/selfdrive/ui/layouts/settings/software.py:57
+#: openpilot/selfdrive/ui/layouts/settings/software.py:60
 #, python-format
 msgid "Download"
 msgstr "Завантажити"
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:60
+#: openpilot/selfdrive/ui/layouts/settings/device.py:63
 #, python-format
 msgid "Driver Camera"
 msgstr "Камера водія"
 
-#: openpilot/selfdrive/ui/layouts/settings/toggles.py:96
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:100
 #, python-format
 msgid "Driving Personality"
 msgstr "Стиль водіння"
 
-#: system/ui/widgets/network.py:120
-#: system/ui/widgets/network.py:136
+#: system/ui/widgets/network.py:126
+#: system/ui/widgets/network.py:142
 #, python-format
 msgid "EDIT"
 msgstr "РЕДАГ."
 
-#: openpilot/selfdrive/ui/layouts/sidebar.py:138
+#: openpilot/selfdrive/ui/layouts/sidebar.py:142
 msgid "ERROR"
 msgstr "ПОМИЛКА"
 
-#: openpilot/selfdrive/ui/layouts/sidebar.py:45
+#: openpilot/selfdrive/ui/layouts/sidebar.py:47
 msgid "ETH"
 msgstr "ETH"
 
@@ -296,73 +301,83 @@ msgstr "ETH"
 msgid "EXPERIMENTAL MODE ON"
 msgstr "ЕКСПЕРИМЕНТ. РЕЖИМ"
 
-#: openpilot/selfdrive/ui/layouts/settings/toggles.py:229
-#: openpilot/selfdrive/ui/layouts/settings/developer.py:180
+#: system/ui/sunnypilot/widgets/sunnylink_pairing_dialog.py:68
+#, python-format
+msgid "Early Access: Become a sunnypilot Sponsor"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:233
+#: openpilot/selfdrive/ui/layouts/settings/developer.py:185
 #, python-format
 msgid "Enable"
 msgstr "Увімкнути"
 
-#: openpilot/selfdrive/ui/layouts/settings/developer.py:39
+#: openpilot/selfdrive/ui/layouts/settings/developer.py:43
 #, python-format
 msgid "Enable ADB"
 msgstr "Увімкнути ADB"
 
-#: openpilot/selfdrive/ui/layouts/settings/toggles.py:64
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:68
 #, python-format
 msgid "Enable Lane Departure Warnings"
 msgstr "Увімкнути попередження про виїзд зі смуги"
 
-#: system/ui/widgets/network.py:126
+#: system/ui/widgets/network.py:132
 #, python-format
 msgid "Enable Roaming"
 msgstr "Увімкнути роумінг"
 
-#: openpilot/selfdrive/ui/layouts/settings/developer.py:48
+#: openpilot/selfdrive/ui/layouts/settings/developer.py:52
 #, python-format
 msgid "Enable SSH"
 msgstr "Увімкнути SSH"
 
-#: system/ui/widgets/network.py:117
+#: system/ui/widgets/network.py:123
 #, python-format
 msgid "Enable Tethering"
 msgstr "Увімкнути точку доступу"
 
-#: openpilot/selfdrive/ui/layouts/settings/toggles.py:30
-msgid "Enable driver monitoring even when openpilot is not engaged."
-msgstr "Увімкнути моніторинг водія, навіть коли openpilot не ввімкнено."
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:34
+msgid "Enable driver monitoring even when sunnypilot is not engaged."
+msgstr ""
 
-#: openpilot/selfdrive/ui/layouts/settings/toggles.py:46
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:50
 #, python-format
-msgid "Enable openpilot"
-msgstr "Увімкнути openpilot"
+msgid "Enable sunnypilot"
+msgstr ""
 
-#: openpilot/selfdrive/ui/layouts/settings/toggles.py:190
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:194
 #, python-format
-msgid "Enable the openpilot longitudinal control (alpha) toggle to allow Experimental mode."
-msgstr "Увімкніть перемикач поздовжнього керування openpilot (альфа), щоб увімкнути експериментальний режим."
+msgid "Enable the sunnypilot longitudinal control (alpha) toggle to allow Experimental mode."
+msgstr ""
 
-#: system/ui/widgets/network.py:201
+#: system/ui/widgets/network.py:207
 #, python-format
 msgid "Enter APN"
 msgstr "Введіть APN"
 
-#: system/ui/widgets/network.py:243
+#: system/ui/widgets/network.py:249
 #, python-format
 msgid "Enter SSID"
 msgstr "Введіть SSID"
 
-#: system/ui/widgets/network.py:257
+#: system/ui/widgets/network.py:263
 #, python-format
 msgid "Enter new tethering password"
 msgstr "Введіть новий пароль для модему"
 
-#: system/ui/widgets/network.py:238
-#: system/ui/widgets/network.py:320
+#: system/ui/widgets/network.py:244
+#: system/ui/widgets/network.py:326
 #, python-format
 msgid "Enter password"
 msgstr "Введіть пароль"
 
-#: openpilot/selfdrive/ui/widgets/ssh_key.py:89
+#: system/ui/sunnypilot/widgets/tree_dialog.py:107
+#, python-format
+msgid "Enter search query"
+msgstr ""
+
+#: openpilot/selfdrive/ui/widgets/ssh_key.py:129
 #, python-format
 msgid "Enter your GitHub username"
 msgstr "Введіть ваш логін GitHub"
@@ -373,17 +388,17 @@ msgstr "Введіть ваш логін GitHub"
 msgid "Error"
 msgstr "Помилка"
 
-#: openpilot/selfdrive/ui/layouts/settings/toggles.py:52
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:56
 #, python-format
 msgid "Experimental Mode"
 msgstr "Експериментальний режим"
 
-#: openpilot/selfdrive/ui/layouts/settings/toggles.py:182
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:186
 #, python-format
 msgid "Experimental mode is currently unavailable on this car since the car's stock ACC is used for longitudinal control."
 msgstr "Експериментальний режим наразі недоступний для цього автомобіля, оскільки для поздовжнього керування використовується штатний адаптивний круїз-контроль (ACC)."
 
-#: system/ui/widgets/network.py:380
+#: system/ui/widgets/network.py:386
 #, python-format
 msgid "FORGETTING..."
 msgstr "ЗАБУВАЮ..."
@@ -401,19 +416,24 @@ msgstr "Злива"
 msgid "Firehose Mode"
 msgstr "Режим зливи"
 
-#: system/ui/widgets/network.py:458
-#: system/ui/widgets/network.py:326
+#: system/ui/sunnypilot/widgets/sunnylink_pairing_dialog.py:95
+#, python-format
+msgid "Follow the prompts to complete the pairing process"
+msgstr ""
+
+#: system/ui/widgets/network.py:464
+#: system/ui/widgets/network.py:332
 #, python-format
 msgid "Forget"
 msgstr "Заб-и"
 
-#: system/ui/widgets/network.py:327
+#: system/ui/widgets/network.py:333
 #, python-format
 msgid "Forget Wi-Fi Network \"{}\"?"
 msgstr "Забути мережу Wi-Fi \"{}\"?"
 
-#: openpilot/selfdrive/ui/layouts/sidebar.py:71
-#: openpilot/selfdrive/ui/layouts/sidebar.py:125
+#: openpilot/selfdrive/ui/layouts/sidebar.py:74
+#: openpilot/selfdrive/ui/layouts/sidebar.py:129
 msgid "GOOD"
 msgstr "ДОБРА"
 
@@ -422,45 +442,55 @@ msgstr "ДОБРА"
 msgid "Go to https://connect.comma.ai on your phone"
 msgstr "Перейдіть на сайт https://connect.comma.ai на своєму телефоні."
 
-#: openpilot/selfdrive/ui/layouts/sidebar.py:129
+#: openpilot/selfdrive/ui/layouts/sidebar.py:133
 msgid "HIGH"
 msgstr "ВИСОКА"
 
-#: system/ui/widgets/network.py:152
+#: system/ui/widgets/network.py:158
 #, python-format
 msgid "Hidden Network"
 msgstr "Прихована мережа"
 
-#: openpilot/selfdrive/ui/layouts/settings/software.py:60
-#: openpilot/selfdrive/ui/layouts/settings/software.py:146
+#: openpilot/selfdrive/ui/layouts/settings/software.py:63
+#: openpilot/selfdrive/ui/layouts/settings/software.py:148
 #, python-format
 msgid "INSTALL"
 msgstr "ВСТАНОВ."
 
-#: system/ui/widgets/network.py:147
+#: system/ui/widgets/network.py:153
 #, python-format
 msgid "IP Address"
 msgstr "IP-адреса"
 
-#: openpilot/selfdrive/ui/layouts/settings/software.py:60
+#: system/ui/sunnypilot/widgets/sunnylink_pairing_dialog.py:97
+#, python-format
+msgid "If sponsorship status was not updated, please contact a moderator on the community forum at https://community.sunnypilot.ai"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/software.py:63
 #, python-format
 msgid "Install Update"
 msgstr "Встановити оновлення"
 
-#: openpilot/selfdrive/ui/layouts/settings/developer.py:56
+#: system/ui/sunnypilot/widgets/sunnylink_pairing_dialog.py:103
+#, python-format
+msgid "Join our Community Forum at https://community.sunnypilot.ai and reach out to a moderator if you have issues"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/developer.py:60
 #, python-format
 msgid "Joystick Debug Mode"
 msgstr "Режим зневадження джойстика"
 
-#: openpilot/selfdrive/ui/widgets/ssh_key.py:29
+#: openpilot/selfdrive/ui/widgets/ssh_key.py:73
 msgid "LOADING"
 msgstr "ЗАВАНТАЖЕННЯ"
 
-#: openpilot/selfdrive/ui/layouts/sidebar.py:48
+#: openpilot/selfdrive/ui/layouts/sidebar.py:50
 msgid "LTE"
 msgstr "LTE"
 
-#: openpilot/selfdrive/ui/layouts/settings/developer.py:64
+#: openpilot/selfdrive/ui/layouts/settings/developer.py:68
 #, python-format
 msgid "Longitudinal Maneuver Mode"
 msgstr "Режим поздовжнього маневрування"
@@ -475,13 +505,13 @@ msgstr "МАКС"
 msgid "Maximize your training data uploads to improve openpilot's driving models."
 msgstr "Максимізуйте завантаження навчальних даних, щоб поліпшити моделі openpilot."
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:57
-#: openpilot/selfdrive/ui/layouts/settings/device.py:58
+#: openpilot/selfdrive/ui/layouts/settings/device.py:60
+#: openpilot/selfdrive/ui/layouts/settings/device.py:61
 #, python-format
 msgid "N/A"
 msgstr "Н/Д"
 
-#: openpilot/selfdrive/ui/layouts/sidebar.py:142
+#: openpilot/selfdrive/ui/layouts/sidebar.py:146
 msgid "NO"
 msgstr "НЕМАЄ"
 
@@ -489,12 +519,7 @@ msgstr "НЕМАЄ"
 msgid "Network"
 msgstr "Мережа"
 
-#: openpilot/selfdrive/ui/widgets/ssh_key.py:115
-#, python-format
-msgid "No SSH keys found"
-msgstr "Не знайдено ключів SSH"
-
-#: openpilot/selfdrive/ui/widgets/ssh_key.py:127
+#: openpilot/selfdrive/ui/widgets/ssh_key.py:67
 #, python-format
 msgid "No SSH keys found for user '{}'"
 msgstr "Користувач '{}' не має ключів на GitHub"
@@ -504,21 +529,21 @@ msgstr "Користувач '{}' не має ключів на GitHub"
 msgid "No release notes available."
 msgstr "Інформація про випуск відсутня."
 
-#: openpilot/selfdrive/ui/layouts/sidebar.py:73
-#: openpilot/selfdrive/ui/layouts/sidebar.py:134
+#: openpilot/selfdrive/ui/layouts/sidebar.py:76
+#: openpilot/selfdrive/ui/layouts/sidebar.py:138
 msgid "OFFLINE"
 msgstr "ОФЛАЙН"
 
-#: system/ui/widgets/confirm_dialog.py:93
 #: system/ui/widgets/html_render.py:263
-#: openpilot/selfdrive/ui/layouts/sidebar.py:127
+#: system/ui/widgets/confirm_dialog.py:93
+#: openpilot/selfdrive/ui/layouts/sidebar.py:131
 #, python-format
 msgid "OK"
 msgstr "OK"
 
-#: openpilot/selfdrive/ui/layouts/sidebar.py:72
-#: openpilot/selfdrive/ui/layouts/sidebar.py:144
-#: openpilot/selfdrive/ui/layouts/sidebar.py:136
+#: openpilot/selfdrive/ui/layouts/sidebar.py:75
+#: openpilot/selfdrive/ui/layouts/sidebar.py:148
+#: openpilot/selfdrive/ui/layouts/sidebar.py:140
 msgid "ONLINE"
 msgstr "ОНЛАЙН"
 
@@ -527,16 +552,16 @@ msgstr "ОНЛАЙН"
 msgid "Open"
 msgstr "ВІДКРИТИ"
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:45
+#: openpilot/selfdrive/ui/layouts/settings/device.py:48
 #, python-format
 msgid "PAIR"
 msgstr "ПІДКЛЮЧИТИ"
 
-#: openpilot/selfdrive/ui/layouts/sidebar.py:142
+#: openpilot/selfdrive/ui/layouts/sidebar.py:146
 msgid "PANDA"
 msgstr "PANDA"
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:60
+#: openpilot/selfdrive/ui/layouts/settings/device.py:63
 #, python-format
 msgid "PREVIEW"
 msgstr "ПОКАЖИ"
@@ -546,7 +571,7 @@ msgstr "ПОКАЖИ"
 msgid "PRIME FEATURES:"
 msgstr "XАРАКТЕРИСТИКИ PRIME:"
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:45
+#: openpilot/selfdrive/ui/layouts/settings/device.py:48
 #, python-format
 msgid "Pair Device"
 msgstr "Підключити пристрій"
@@ -556,13 +581,18 @@ msgstr "Підключити пристрій"
 msgid "Pair device"
 msgstr "Підключити пристрій"
 
+#: system/ui/sunnypilot/widgets/sunnylink_pairing_dialog.py:68
+#, python-format
+msgid "Pair your GitHub account"
+msgstr ""
+
 #: openpilot/selfdrive/ui/widgets/pairing_dialog.py:92
 #, python-format
 msgid "Pair your device to your comma account"
 msgstr "Підключіть свій пристрій до обліковки comma connect"
 
 #: openpilot/selfdrive/ui/widgets/setup.py:47
-#: openpilot/selfdrive/ui/layouts/settings/device.py:23
+#: openpilot/selfdrive/ui/layouts/settings/device.py:26
 #, python-format
 msgid "Pair your device with comma connect (connect.comma.ai) and claim your comma prime offer."
 msgstr "Підключіть свій пристрій до comma connect (connect.comma.ai) і отримайте свою пропозицію comma prime."
@@ -572,23 +602,23 @@ msgstr "Підключіть свій пристрій до comma connect (conne
 msgid "Please connect to Wi-Fi to complete initial pairing"
 msgstr "Будь ласка, підключіться до Wi-Fi, щоб завершити початкове сполучення."
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:183
-#: openpilot/selfdrive/ui/layouts/settings/device.py:53
+#: openpilot/selfdrive/ui/layouts/settings/device.py:186
+#: openpilot/selfdrive/ui/layouts/settings/device.py:56
 #, python-format
 msgid "Power Off"
 msgstr "Вимкнути"
 
-#: system/ui/widgets/network.py:141
+#: system/ui/widgets/network.py:147
 #, python-format
 msgid "Prevent large data uploads when on a metered Wi-Fi connection"
 msgstr "Запобігайте завантаженню великих обсягів даних під час використання Wi-Fi-з'єднання з обмеженим трафіком"
 
-#: system/ui/widgets/network.py:132
+#: system/ui/widgets/network.py:138
 #, python-format
 msgid "Prevent large data uploads when on a metered cellular connection"
 msgstr "Запобігати великим завантаженням даних під час лімітного стільникового з'єднання"
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:24
+#: openpilot/selfdrive/ui/layouts/settings/device.py:27
 msgid "Preview the driver facing camera to ensure that driver monitoring has good visibility. (vehicle must be off)"
 msgstr "Попередньо перегляньте камеру, спрямовану на водія, щоб переконатися, що система моніторингу водія має добру видимість. (автомобіль повинен бути вимкнений)"
 
@@ -597,22 +627,27 @@ msgstr "Попередньо перегляньте камеру, спрямов
 msgid "QR Code Error"
 msgstr "Помилка QR-коду"
 
-#: openpilot/selfdrive/ui/widgets/ssh_key.py:31
+#: openpilot/selfdrive/ui/widgets/ssh_key.py:75
 msgid "REMOVE"
 msgstr "ВИДАЛИТИ"
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:49
+#: openpilot/selfdrive/ui/layouts/settings/device.py:52
 #, python-format
 msgid "RESET"
 msgstr "Скинути"
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:63
+#: openpilot/selfdrive/ui/layouts/settings/device.py:66
 #, python-format
 msgid "REVIEW"
 msgstr "ДИВИТИСЬ"
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:171
-#: openpilot/selfdrive/ui/layouts/settings/device.py:53
+#: system/ui/sunnypilot/widgets/sunnylink_pairing_dialog.py:96
+#, python-format
+msgid "Re-enter the \"sunnylink\" panel to verify sponsorship status"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:174
+#: openpilot/selfdrive/ui/layouts/settings/device.py:56
 #, python-format
 msgid "Reboot"
 msgstr "Перезавантажити"
@@ -627,26 +662,26 @@ msgstr "Перезавантажте пристрій"
 msgid "Reboot and Update"
 msgstr "Перезавантажити та оновити"
 
-#: openpilot/selfdrive/ui/layouts/settings/toggles.py:76
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:80
 #, python-format
 msgid "Record and Upload Driver Camera"
 msgstr "Писати та вантажити відео з камери водія"
 
-#: openpilot/selfdrive/ui/layouts/settings/toggles.py:82
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:86
 #, python-format
 msgid "Record and Upload Microphone Audio"
 msgstr "Запис та завантаження аудіо з мікрофона"
 
-#: openpilot/selfdrive/ui/layouts/settings/toggles.py:33
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:37
 msgid "Record and store microphone audio while driving. The audio will be included in the dashcam video in comma connect."
 msgstr "Записуйте та зберігайте аудіо з мікрофона під час руху. Аудіо буде включено до відео з відеореєстратора в comma connect."
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:65
+#: openpilot/selfdrive/ui/layouts/settings/device.py:68
 #, python-format
 msgid "Regulatory"
 msgstr "Нормативні документи"
 
-#: openpilot/selfdrive/ui/layouts/settings/toggles.py:98
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:102
 #, python-format
 msgid "Relaxed"
 msgstr "Спокійний"
@@ -661,61 +696,76 @@ msgstr "Віддалений доступ"
 msgid "Remote snapshots"
 msgstr "Віддалені знімки"
 
-#: openpilot/selfdrive/ui/widgets/ssh_key.py:124
+#: openpilot/selfdrive/ui/widgets/ssh_key.py:65
 #, python-format
 msgid "Request timed out"
 msgstr "Час запиту вичерпано"
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:111
+#: openpilot/selfdrive/ui/layouts/settings/device.py:114
 #, python-format
 msgid "Reset"
 msgstr "Скинути"
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:49
+#: openpilot/selfdrive/ui/layouts/settings/device.py:52
 #, python-format
 msgid "Reset Calibration"
 msgstr "Скинути калібрування"
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:63
+#: openpilot/selfdrive/ui/layouts/settings/device.py:66
 #, python-format
 msgid "Review Training Guide"
 msgstr "Переглянути посібник з навчання"
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:26
-msgid "Review the rules, features, and limitations of openpilot"
-msgstr "Перегляньте правила, функції та обмеження openpilot"
+#: openpilot/selfdrive/ui/layouts/settings/device.py:29
+msgid "Review the rules, features, and limitations of sunnypilot"
+msgstr ""
 
-#: openpilot/selfdrive/ui/layouts/settings/software.py:68
+#: openpilot/selfdrive/ui/layouts/settings/software.py:71
 #, python-format
 msgid "SELECT"
 msgstr "ВИБРАТИ"
 
-#: openpilot/selfdrive/ui/layouts/settings/developer.py:53
+#: openpilot/selfdrive/ui/layouts/settings/developer.py:57
 #, python-format
 msgid "SSH Keys"
 msgstr "SSH ключі"
 
-#: system/ui/widgets/network.py:316
+#: system/ui/sunnypilot/widgets/sunnylink_pairing_dialog.py:94
+#, python-format
+msgid "Scan the QR code to login to your GitHub account"
+msgstr ""
+
+#: system/ui/sunnypilot/widgets/sunnylink_pairing_dialog.py:101
+#, python-format
+msgid "Scan the QR code to visit sunnyhaibin's GitHub Sponsors page"
+msgstr ""
+
+#: system/ui/widgets/network.py:322
 #, python-format
 msgid "Scanning Wi-Fi networks..."
 msgstr "Пошук мереж..."
+
+#: system/ui/sunnypilot/widgets/tree_dialog.py:98
+#, python-format
+msgid "Search"
+msgstr ""
 
 #: system/ui/widgets/option_dialog.py:37
 #, python-format
 msgid "Select"
 msgstr "Вибрати"
 
-#: openpilot/selfdrive/ui/layouts/settings/software.py:203
+#: openpilot/selfdrive/ui/layouts/settings/software.py:205
 #, python-format
 msgid "Select a branch"
 msgstr "Виберіть гілку"
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:89
+#: openpilot/selfdrive/ui/layouts/settings/device.py:92
 #, python-format
 msgid "Select a language"
 msgstr "Виберіть мову"
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:58
+#: openpilot/selfdrive/ui/layouts/settings/device.py:61
 #, python-format
 msgid "Serial"
 msgstr "Серійний номер"
@@ -729,7 +779,7 @@ msgstr "Відкласти оновлення"
 msgid "Software"
 msgstr "Програма"
 
-#: openpilot/selfdrive/ui/layouts/settings/toggles.py:98
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:102
 #, python-format
 msgid "Standard"
 msgstr "Стандарт"
@@ -745,19 +795,19 @@ msgstr "Система не реагує"
 msgid "TAKE CONTROL IMMEDIATELY"
 msgstr "КЕРМУЙТЕ НЕГАЙНО"
 
-#: openpilot/selfdrive/ui/layouts/sidebar.py:71
-#: openpilot/selfdrive/ui/layouts/sidebar.py:125
-#: openpilot/selfdrive/ui/layouts/sidebar.py:127
+#: openpilot/selfdrive/ui/layouts/sidebar.py:74
 #: openpilot/selfdrive/ui/layouts/sidebar.py:129
+#: openpilot/selfdrive/ui/layouts/sidebar.py:131
+#: openpilot/selfdrive/ui/layouts/sidebar.py:133
 msgid "TEMP"
 msgstr "ТЕМП"
 
-#: openpilot/selfdrive/ui/layouts/settings/software.py:68
+#: openpilot/selfdrive/ui/layouts/settings/software.py:71
 #, python-format
 msgid "Target Branch"
 msgstr "Цільова гілка"
 
-#: system/ui/widgets/network.py:121
+#: system/ui/widgets/network.py:127
 #, python-format
 msgid "Tethering Password"
 msgstr "Пароль для точки доступу"
@@ -766,12 +816,12 @@ msgstr "Пароль для точки доступу"
 msgid "Toggles"
 msgstr "Перемикачі"
 
-#: openpilot/selfdrive/ui/layouts/settings/developer.py:79
+#: openpilot/selfdrive/ui/layouts/settings/developer.py:83
 #, python-format
 msgid "UI Debug Mode"
 msgstr ""
 
-#: openpilot/selfdrive/ui/layouts/settings/software.py:79
+#: openpilot/selfdrive/ui/layouts/settings/software.py:81
 #, python-format
 msgid "UNINSTALL"
 msgstr "ВИДАЛИТИ"
@@ -781,17 +831,17 @@ msgstr "ВИДАЛИТИ"
 msgid "UPDATE"
 msgstr "ОНОВИТИ"
 
-#: openpilot/selfdrive/ui/layouts/settings/software.py:173
-#: openpilot/selfdrive/ui/layouts/settings/software.py:79
+#: openpilot/selfdrive/ui/layouts/settings/software.py:175
+#: openpilot/selfdrive/ui/layouts/settings/software.py:81
 #, python-format
 msgid "Uninstall"
 msgstr "Видалити"
 
-#: openpilot/selfdrive/ui/layouts/sidebar.py:117
+#: openpilot/selfdrive/ui/layouts/sidebar.py:121
 msgid "Unknown"
 msgstr "Невідомо"
 
-#: openpilot/selfdrive/ui/layouts/settings/software.py:55
+#: openpilot/selfdrive/ui/layouts/settings/software.py:58
 #, python-format
 msgid "Updates are only downloaded while the car is off."
 msgstr "Оновлення завантажуються лише тоді, коли автомобіль вимкнено."
@@ -801,21 +851,21 @@ msgstr "Оновлення завантажуються лише тоді, ко�
 msgid "Upgrade Now"
 msgstr "Оновити зараз"
 
-#: openpilot/selfdrive/ui/layouts/settings/toggles.py:31
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:35
 msgid "Upload data from the driver facing camera and help improve the driver monitoring algorithm."
 msgstr "Завантажуйте дані з камери, спрямованої на водія, та допоможіть покращити алгоритм моніторингу водія."
 
-#: openpilot/selfdrive/ui/layouts/settings/toggles.py:88
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:92
 #, python-format
 msgid "Use Metric System"
 msgstr "Використовувати метричну систему"
 
-#: openpilot/selfdrive/ui/layouts/sidebar.py:72
-#: openpilot/selfdrive/ui/layouts/sidebar.py:144
+#: openpilot/selfdrive/ui/layouts/sidebar.py:75
+#: openpilot/selfdrive/ui/layouts/sidebar.py:148
 msgid "VEHICLE"
 msgstr "АВТО"
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:65
+#: openpilot/selfdrive/ui/layouts/settings/device.py:68
 #, python-format
 msgid "VIEW"
 msgstr "ДИВИСЬ"
@@ -825,45 +875,45 @@ msgstr "ДИВИСЬ"
 msgid "Waiting to start"
 msgstr "Очікування початку"
 
-#: openpilot/selfdrive/ui/layouts/onboarding.py:115
+#: openpilot/selfdrive/ui/layouts/onboarding.py:118
 #, python-format
-msgid "Welcome to openpilot"
-msgstr "Ласкаво просимо до openpilot"
+msgid "Welcome to sunnypilot"
+msgstr ""
 
-#: openpilot/selfdrive/ui/layouts/settings/toggles.py:20
-msgid "When enabled, pressing the accelerator pedal will disengage openpilot."
-msgstr "Якщо увімкнено, натискання на педаль акселератора вимкне openpilot."
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:24
+msgid "When enabled, pressing the accelerator pedal will disengage sunnypilot."
+msgstr ""
 
-#: openpilot/selfdrive/ui/layouts/sidebar.py:44
+#: openpilot/selfdrive/ui/layouts/sidebar.py:46
 msgid "Wi-Fi"
 msgstr "Wi-Fi"
 
-#: system/ui/widgets/network.py:141
+#: system/ui/widgets/network.py:147
 #, python-format
 msgid "Wi-Fi Network Metered"
 msgstr "Трафік Wi-Fi"
 
-#: system/ui/widgets/network.py:320
+#: system/ui/widgets/network.py:326
 #, python-format
 msgid "Wrong password"
 msgstr "Невірний пароль"
 
-#: openpilot/selfdrive/ui/layouts/onboarding.py:149
+#: openpilot/selfdrive/ui/layouts/onboarding.py:152
 #, python-format
-msgid "You must accept the Terms and Conditions in order to use openpilot."
-msgstr "Ви повинні прийняти Умови та положення, щоб користуватися openpilot."
+msgid "You must accept the Terms of Service in order to use sunnypilot."
+msgstr ""
 
-#: openpilot/selfdrive/ui/layouts/onboarding.py:116
+#: openpilot/selfdrive/ui/layouts/onboarding.py:119
 #, python-format
-msgid "You must accept the Terms and Conditions to use openpilot. Read the latest terms at https://comma.ai/terms before continuing."
-msgstr "Ви повинні прийняти Умови використання, щоб користуватися openpilot. Перед тим, як продовжити, ознайомтеся з останніми умовами на сайті https://comma.ai/terms."
+msgid "You must accept the Terms of Service to use sunnypilot. Read the latest terms at https://sunnypilot.ai/terms before continuing."
+msgstr ""
 
 #: openpilot/selfdrive/ui/onroad/driver_camera_dialog.py:38
 #, python-format
 msgid "camera starting"
 msgstr "запуск камери"
 
-#: openpilot/selfdrive/ui/layouts/settings/software.py:19
+#: openpilot/selfdrive/ui/layouts/settings/software.py:22
 #, python-format
 msgid "checking..."
 msgstr "перевіряю..."
@@ -873,33 +923,33 @@ msgstr "перевіряю..."
 msgid "comma prime"
 msgstr "comma prime"
 
-#: system/ui/widgets/network.py:139
+#: system/ui/widgets/network.py:145
 #, python-format
 msgid "default"
 msgstr "замовч."
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:125
+#: openpilot/selfdrive/ui/layouts/settings/device.py:128
 #, python-format
 msgid "down"
 msgstr "вниз"
 
-#: openpilot/selfdrive/ui/layouts/settings/software.py:20
+#: openpilot/selfdrive/ui/layouts/settings/software.py:23
 #, python-format
 msgid "downloading..."
 msgstr "завантажую..."
 
-#: openpilot/selfdrive/ui/layouts/settings/software.py:116
+#: openpilot/selfdrive/ui/layouts/settings/software.py:118
 #, python-format
 msgid "failed to check for update"
 msgstr "не вдалося перевірити оновлення"
 
-#: openpilot/selfdrive/ui/layouts/settings/software.py:21
+#: openpilot/selfdrive/ui/layouts/settings/software.py:24
 #, python-format
 msgid "finalizing update..."
 msgstr "завершую..."
 
-#: system/ui/widgets/network.py:238
-#: system/ui/widgets/network.py:321
+#: system/ui/widgets/network.py:244
+#: system/ui/widgets/network.py:327
 #, python-format
 msgid "for \"{}\""
 msgstr "для \"{}\""
@@ -909,17 +959,17 @@ msgstr "для \"{}\""
 msgid "km/h"
 msgstr "км/год"
 
-#: system/ui/widgets/network.py:201
+#: system/ui/widgets/network.py:207
 #, python-format
 msgid "leave blank for automatic configuration"
 msgstr "залиште порожнім для автоматичного налаштування"
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:126
+#: openpilot/selfdrive/ui/layouts/settings/device.py:129
 #, python-format
 msgid "left"
 msgstr "вліво"
 
-#: system/ui/widgets/network.py:139
+#: system/ui/widgets/network.py:145
 #, python-format
 msgid "metered"
 msgstr "обмеж."
@@ -929,61 +979,61 @@ msgstr "обмеж."
 msgid "mph"
 msgstr "миль/год"
 
-#: openpilot/selfdrive/ui/layouts/settings/software.py:27
+#: openpilot/selfdrive/ui/layouts/settings/software.py:30
 #, python-format
 msgid "never"
 msgstr "ніколи"
 
-#: openpilot/selfdrive/ui/layouts/settings/software.py:38
+#: openpilot/selfdrive/ui/layouts/settings/software.py:41
 #, python-format
 msgid "now"
 msgstr "зараз"
 
-#: openpilot/selfdrive/ui/layouts/settings/developer.py:71
-#, python-format
-msgid "openpilot Longitudinal Control (Alpha)"
-msgstr "Поздовжнє керування openpilot (Альфа)"
-
-#: openpilot/selfdrive/ui/onroad/alert_renderer.py:51
-#, python-format
-msgid "openpilot Unavailable"
-msgstr "openpilot Недоступний"
-
-#: openpilot/selfdrive/ui/layouts/settings/toggles.py:184
-#, python-format
-msgid "openpilot longitudinal control may come in a future update."
-msgstr "Поздовжнє керування openpilot може з'явитися в майбутньому оновленні."
-
-#: openpilot/selfdrive/ui/layouts/settings/device.py:25
-msgid "openpilot requires the device to be mounted within 4° left or right and within 5° up or 9° down."
-msgstr "Для роботи openpilot потрібно, щоб пристрій був встановлений з нахилом не більше 4° вліво або вправо та не більше 5° вгору або 9° вниз. openpilot постійно калібрується, тому скидання калібрування потрібне рідко."
-
-#: openpilot/selfdrive/ui/layouts/settings/device.py:126
+#: openpilot/selfdrive/ui/layouts/settings/device.py:129
 #, python-format
 msgid "right"
 msgstr "вправо"
 
-#: system/ui/widgets/network.py:139
+#: openpilot/selfdrive/ui/layouts/settings/developer.py:75
+#, python-format
+msgid "sunnypilot Longitudinal Control (Alpha)"
+msgstr ""
+
+#: openpilot/selfdrive/ui/onroad/alert_renderer.py:51
+#, python-format
+msgid "sunnypilot Unavailable"
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/toggles.py:188
+#, python-format
+msgid "sunnypilot longitudinal control may come in a future update."
+msgstr ""
+
+#: openpilot/selfdrive/ui/layouts/settings/device.py:28
+msgid "sunnypilot requires the device to be mounted within 4° left or right and within 5° up or 9° down."
+msgstr ""
+
+#: system/ui/widgets/network.py:145
 #, python-format
 msgid "unmetered"
 msgstr "необмеж."
 
-#: openpilot/selfdrive/ui/layouts/settings/device.py:125
+#: openpilot/selfdrive/ui/layouts/settings/device.py:128
 #, python-format
 msgid "up"
 msgstr "вгору"
 
-#: openpilot/selfdrive/ui/layouts/settings/software.py:127
+#: openpilot/selfdrive/ui/layouts/settings/software.py:129
 #, python-format
 msgid "up to date, last checked never"
 msgstr "оновлено, ніколи не перевірялось"
 
-#: openpilot/selfdrive/ui/layouts/settings/software.py:125
+#: openpilot/selfdrive/ui/layouts/settings/software.py:127
 #, python-format
 msgid "up to date, last checked {}"
 msgstr "оновлено, перевірив {}"
 
-#: openpilot/selfdrive/ui/layouts/settings/software.py:119
+#: openpilot/selfdrive/ui/layouts/settings/software.py:121
 #, python-format
 msgid "update available"
 msgstr "доступне оновлення"
@@ -996,7 +1046,7 @@ msgstr[0] "{} СПОВІЩЕННЯ"
 msgstr[1] "{} СПОВІЩЕННЯ"
 msgstr[2] "{} СПОВІЩЕНЬ"
 
-#: openpilot/selfdrive/ui/layouts/settings/software.py:47
+#: openpilot/selfdrive/ui/layouts/settings/software.py:50
 #, python-format
 msgid "{} day ago"
 msgid_plural "{} days ago"
@@ -1004,7 +1054,7 @@ msgstr[0] "{} день тому"
 msgstr[1] "{} дні тому"
 msgstr[2] "{} днів тому"
 
-#: openpilot/selfdrive/ui/layouts/settings/software.py:44
+#: openpilot/selfdrive/ui/layouts/settings/software.py:47
 #, python-format
 msgid "{} hour ago"
 msgid_plural "{} hours ago"
@@ -1012,7 +1062,7 @@ msgstr[0] "{} година тому"
 msgstr[1] "{} години тому"
 msgstr[2] "{} годин тому"
 
-#: openpilot/selfdrive/ui/layouts/settings/software.py:41
+#: openpilot/selfdrive/ui/layouts/settings/software.py:44
 #, python-format
 msgid "{} minute ago"
 msgid_plural "{} minutes ago"
