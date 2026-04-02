@@ -81,7 +81,7 @@ def manager_init() -> None:
   params.put_bool("IsReleaseSpBranch", build_metadata.release_sp_channel)
   params.put("HardwareSerial", serial)
 
-  TOYOTA_RAV4_TSS2_2023_bundle = {
+  TOYOTA_RAV4_TSS2_2023_platform_bundle = {
     "platform": "TOYOTA_RAV4_TSS2_2023",
     "make": "Toyota",
     "brand": "Toyota",
