@@ -81,6 +81,17 @@ def manager_init() -> None:
   params.put_bool("IsReleaseSpBranch", build_metadata.release_sp_channel)
   params.put("HardwareSerial", serial)
 
+  TOYOTA_RAV4_TSS2_2023_bundle = {
+    "platform": "TOYOTA_RAV4_TSS2_2023",
+    "make": "Toyota",
+    "brand": "Toyota",
+    "model": "Toyota RAV4 Hybrid 2023-25",
+    "year": ["2023", "2024", "2025"],
+    "package": "Smart Cruise Control (SCC)",
+    "name": "Toyota RAV4 Hybrid 2023-25",
+  }
+  params.put("CarPlatformBundle", TOYOTA_RAV4_TSS2_2023_platform_bundle)
+
   # set dongle id
   reg_res = register(show_spinner=True)
   if reg_res:
